@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-intermediate-customizedterminal-slimane",
+  "version": "1.0.0",
+  "description": "For this project, you will see more modules of NodeJS like 'OS' and 'util'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loukansif/NodeJs-Intermediate-customizedTerminal-Slimane.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loukansif/NodeJs-Intermediate-customizedTerminal-Slimane/issues"
+  },
+  "homepage": "https://github.com/loukansif/NodeJs-Intermediate-customizedTerminal-Slimane#readme"
+}
