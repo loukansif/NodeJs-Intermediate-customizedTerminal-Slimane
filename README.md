@@ -16,7 +16,6 @@ See the module [util](https://nodejs.org/api/util.html#utilformatwithoptionsinsp
 To fetch data you can use node-fetch or axios, as you wish.
 The look & feel (color? ASCII art or icons?) is up to you !
 
-5. Add another option to require at least one symbol and/or one number in the generated password.
 
 BONUS 
 
