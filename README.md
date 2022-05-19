@@ -1,4 +1,4 @@
-## 🔑 Customize your terminal
+## 📺 Customize your terminal
 
 For this project, you will see more modules of NodeJS
 
