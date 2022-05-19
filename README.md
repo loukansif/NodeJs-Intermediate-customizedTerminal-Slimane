@@ -14,3 +14,7 @@ The time interval to refresh the data is up to you, pick something that makes se
 The look & feel (color? ASCII art or icons?) is up to you !
 
 4. Add another option to require at least one symbol and/or one number in the generated password.
+
+BONUS 
+
+0. Add a progress bar that increase whith time
